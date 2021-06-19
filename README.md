@@ -1,1 +1,2 @@
-local
+pizza chorizo
+pizza canibal
